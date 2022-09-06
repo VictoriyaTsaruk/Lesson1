@@ -21,4 +21,3 @@
   int number4 = Convert.ToInt32(Console.ReadLine());
   Console.WriteLine(number4 * number4);
 }
-bla bla
